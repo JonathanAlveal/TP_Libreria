@@ -1,0 +1,36 @@
+
+.peliculas
+{
+    height: 1080px;
+}
+
+.qr
+{
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+#catcha-img
+{
+    margin: 20px;
+}
+
+#formulario
+{
+    width: 700px;
+    font-size: 20px;
+}
+
+p
+{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cartel
+{
+    background-color: rgb(48, 48, 48);
+    opacity: 0.8;
+}
+

@@ -1,0 +1,52 @@
+
+.cabecera
+{
+    background-color: rgb(48, 48, 48);
+    margin-bottom:300px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu
+{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.contenedor-links
+{
+    padding: 20px;
+    margin: 10px;
+}
+
+.contenedor-links:hover
+{
+    background-color: rgb(119, 35, 35);
+}
+
+.links
+{
+    text-decoration: none;
+    color: white;
+}
+
+.links:hover
+{
+    color: white;
+}
+
+footer{
+    margin-top: 500px;
+    background-color: rgb(48, 48, 48);
+    color:white;
+}

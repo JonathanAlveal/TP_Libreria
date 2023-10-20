@@ -1,0 +1,912 @@
+2023-10-04 16:02:09: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:03:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:27: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:29: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:30: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:31: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:32: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:33: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:08:33: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:11:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:11:47: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:11:56: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:11:56: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:13:31: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:14:18: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:21:15: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:21:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:22:54: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:23:41: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:23:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:24:11: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:25:02: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:27:55: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:11: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:24: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:28:42: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:29:19: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:29:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:30:01: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:30:40: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:31:12: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:33:04: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:33:13: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:33:20: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:33:53: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:38:54: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:42:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:42:41: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:43:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:44:12: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:56:55: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:58:38: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:59:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 16:59:42: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:00:08: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:01:27: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:01:54: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:02:15: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:02:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:02:46: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:02:54: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:02: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:02: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:03: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:15: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:16: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:16: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:37: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:03:59: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:04:32: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:05:04: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:10:47: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:12:19: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:12:29: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:13:01: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:13:08: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:13:09: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 17:13:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 18:45:53: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-10-04 18:56:29: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>D:\xampp\htdocs\programacion_web_dinamica\clasesUtiles\Util\class\phpqrcode\qrsplit.php</b> on line <b>62</b><br />

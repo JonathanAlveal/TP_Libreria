@@ -1,6 +1,6 @@
 # TP_Libreria
 
-Trabajo Práctico de Programación Web Avanzada GRUPO N° 10
+Trabajo Práctico de Programación Web Dinamica GRUPO N° 10
 
 Integrantes:
 
